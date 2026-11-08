@@ -51,9 +51,3 @@ Built first at **Zindua School**, a TVETA-registered college in Nairobi — our 
 - 📚 [Documentation](https://rukialabs.com/docs) · [Feature roadmap](https://rukialabs.com/docs/roadmap/overview)
 - 🛠️ [Engineering @ Rukia Labs](https://rukialabs.com/engineering) · [Blog](https://rukialabs.com/blogs)
 - 💼 [LinkedIn](https://www.linkedin.com/company/rukialabs) · ▶️ [YouTube](https://www.youtube.com/@rukialabs) · 💬 [WhatsApp](https://wa.me/254791801660)
-
----
-
-<div align="center">
-<sub>© 2026 Rukia Labs · Nairobi, Kenya</sub>
-</div>
